@@ -13,8 +13,8 @@ Two data files are needed to run this do-file, and can be downloaded from the UK
 - shes21i_eul - participant demographic survey data. There is only one observation per participant.
 
 ### Output
-- SHeS 2021_foodlevel_manuscript_20231016.dta - this dataset has multiple observations for each participant, corresponding to each food item reported
-- SHeS 2021_participantlevel_manuscript_20231016.dta - this dataset has one observation for each participant
+- SHeS 2021_foodlevel_CXC_20231016.dta - this dataset has multiple observations for each participant, corresponding to each food item reported
+- SHeS 2021_participantlevel_CXC_20231016.dta - this dataset has one observation for each participant
 
 ## Data Analysis Files
 ### CXC_Exporting data into Excel tables.do
