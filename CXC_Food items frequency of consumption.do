@@ -33,7 +33,7 @@ svyset [pweight=SHeS_Intake24_wt_sc], psu(psu) strata(Strata)
 
 
 /*******************************************************************
-Look at frequency of items reported within fruit and veg and cereals
+Look at frequency of items reported within four key food groups
 ********************************************************************/
 ta FoodDescription if FoodCategoryDesc=="Fruit" /*Unweight N*/
 svy, subpop(intake24): ta FoodDescription if FoodCategoryDesc=="Fruit" /*Survey-weighted %*/
