@@ -4,7 +4,7 @@ Analysis of food group intake (current intakes, and nutritional contributions) a
 ## Data Management File
 
 ### CXC_Data management
-This Stata do-file creates a food-level and participant-level dataset for SHeS. It combines demographic survey data with dietary data collected through Intake24. At the participant level, mean daily intakes of each high-level food category are calculated, as well as the mean daily per cent contributions of high-level food categories to 27 nutrients.
+This Stata do-file creates a food-level and participant-level dataset for SHeS. It combines demographic survey data with dietary data collected through Intake24. At the participant level, mean daily intakes of each high-level food category are calculated, as well as the their mean daily per cent contributions to 27 nutrients.
 
 Files needed to run this do-file:
 #### Data files
