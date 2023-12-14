@@ -33,7 +33,7 @@ svyset [pweight=SHeS_Intake24_wt_sc], psu(psu) strata(Strata)
 
 
 /*******************************************************************
-Look at frequency of items reported within four key food groups
+Look at frequency of items reported within five key food groups
 ********************************************************************/
 ta FoodDescription if FoodCategoryDesc=="Fruit" /*Unweighted N*/
 svy, subpop(intake24): ta FoodDescription if FoodCategoryDesc=="Fruit" /*Survey-weighted %*/
@@ -46,3 +46,7 @@ svy, subpop(intake24): ta FoodDescription if FoodCategoryDesc=="Cereals and Cere
 
 ta FoodDescription if FoodCategoryDesc=="Sandwiches"
 svy, subpop(intake24): ta FoodDescription if FoodCategoryDesc=="Sandwiches"
+
+ta FoodDescription if FoodCategoryDesc=="Non-alcoholic beverages"
+svy, subpop(intake24): ta FoodDescription if FoodCategoryDesc=="Non-alcoholic beverages"
+
