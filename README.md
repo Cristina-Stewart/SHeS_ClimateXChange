@@ -28,3 +28,4 @@ This do-file tabulates (unweighted n's and survey-weighted %'s) food item consum
 2) Vegetables, potatoes
 3) Cereals and cereal products
 4) Sandwiches
+5) Non-alcoholic beverages
