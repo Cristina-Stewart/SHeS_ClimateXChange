@@ -33,7 +33,7 @@ This do-file tabulates (unweighted n's and survey-weighted %'s) food item consum
 5) Non-alcoholic beverages
 
 ## Output Files 
-#### Figures SHeS_Nutrient intake by population group adults
+### Figures SHeS_Nutrient intake by population group adults
 This Word file contains figures of nutrient intake by population group among adults in SHeS 2021.
 
 ### Figures NDNS_Nutrient intake by population group children
